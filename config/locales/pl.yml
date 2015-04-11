@@ -1,0 +1,8 @@
+pl:
+    layouts:
+        application: 
+            title: "Pragmatyczna polka"
+            home: "Dom"
+            questions: "Pytania"
+            news: "Wiadomosci"
+            contact: "Kontakt"
